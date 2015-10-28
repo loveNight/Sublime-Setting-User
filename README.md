@@ -1,4 +1,3 @@
-# Sublime-Setting-User
 Sublime Text 3 设置文件保存专用
 
 Sublime Text 3 的 \Packages\User 文件夹下都是用户设置文件，上传到Github方便在不同的电脑上使用。此仓库仅作保存之用。
@@ -6,9 +5,7 @@ Sublime Text 3 的 \Packages\User 文件夹下都是用户设置文件，上传�
 下面是自己的Sublime Text 3 配置：
 
 
-# Sublime Text 3 配置和使用方法
 
-标签（空格分隔）： IDE与编辑器
 
 ---
 下载：
@@ -20,9 +17,6 @@ Sublime Text 3 的 \Packages\User 文件夹下都是用户设置文件，上传�
 
 - [Sublime Text 非官方文档](http://sublime-text.readthedocs.org/en/latest/index.html)
 
-目录：
-
-[TOC]
 
 ---
 ## 技巧
