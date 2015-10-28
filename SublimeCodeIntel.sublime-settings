@@ -1,0 +1,35 @@
+{
+	/*
+       Tooltips method:
+
+       "popup" - Uses Autocomplete popup for tooltips.
+       "panel" - Uses the output panel for tooltips.
+       "status" - Uses the status bar for tooltips (was the default).
+    */
+    "codeintel_tooltips": "popup",
+
+	/*
+       "buffer" - add word completions from current view
+       "all" - add word completions from all views from active window
+       "none" - do not add word completions
+    */
+    "codeintel_word_completions": "all",
+
+     /*
+       Defines a configuration for each language.
+    */
+    "codeintel_language_settings": {
+        "Python3": {
+            "python3": "C:/Python 3.5/python.exe",
+            "codeintel_scan_extra_dir": [
+                "C:/Python 3.5",
+                "C:/Python 3.5/DLLs",
+                "C:/Python 3.5/Lib",
+                "C:/Python 3.5/Lib/site-packages",
+
+            ],
+            "codeintel_scan_files_in_project": true,
+            "codeintel_selected_catalogs": []
+        }
+    }
+}

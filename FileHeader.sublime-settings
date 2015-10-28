@@ -1,0 +1,7 @@
+{/*
+    Whether show input panel when you add header. The default file which
+    you add header to is the current file you edit.
+    */
+    "show_input_panel_when_add_header": true
+}
+

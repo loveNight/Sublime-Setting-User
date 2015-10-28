@@ -1,0 +1,22 @@
+{
+	"shell_cmd": "python -u \"$file\"",
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.python",
+	"encoding": "cp936",
+
+
+	"keys": ["f8"],
+	"command": "repl_open",
+	"caption": "Python",
+	"mnemonic": "p",
+	"args": {
+		"type": "subprocess",
+		"encoding": "utf8",
+		"cmd": ["python", "-i", "-u", "$file"],
+		"cwd": "$file_path",
+		"syntax": "Packages/Python/Python.tmLanguage",
+		"external_id": "python"
+
+
+	}
+}

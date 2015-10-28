@@ -1,0 +1,17 @@
+<snippet>
+	<!-- 快速补全的内容 -->
+	<!-- 1表示第一个输入点，1后加冒号和字符表示默认值 -->
+    <!-- 如System.out.println(${1:"Hello World"})，可输入多行代码 -->
+    <content><![CDATA[System.out.println(${1});]]></content>
+
+    <!-- 触发字符 -->
+    <tabTrigger>syso</tabTrigger>
+
+    <!-- 指定的语法才会触发，可选 -->
+    <!-- 此处的语法指的是Ctrl+Shift+P，Set Syntax中设置的语法 -->
+    <!-- 必须把完整的语言名写在后缀中 -->
+    <scope>source.java</scope>
+
+    <!-- 触发时的提示 -->
+    <description>System.out.println()</description>
+</snippet>

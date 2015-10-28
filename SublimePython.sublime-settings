@@ -1,0 +1,7 @@
+{
+	// make python_open_documentation command output in a view or in the output
+    // panel if false
+    "open_pydoc_in_view": false,
+
+    "python_linting": false,
+}

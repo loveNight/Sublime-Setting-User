@@ -1,0 +1,30 @@
+{
+	"auto_upgrade": false,
+	"auto_upgrade_ignore":
+	[
+	],
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"ColorPicker",
+		"Colorsublime",
+		"ConvertToUTF8",
+		"Default",
+		"Emmet",
+		"FileHeader",
+		"Git",
+		"IMESupport",
+		"JsFormat",
+		"Modific",
+		"Nil-Theme",
+		"Package Control",
+		"PyV8",
+		"SideBarEnhancements",
+		"WakaTime",
+		"ZZZ"
+	]
+}
