@@ -1,0 +1,8 @@
+{
+    "shell_cmd": "python -u \"$file\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    // 默认是utf-8，控制台无法输出中文。
+    // Window Code Page 936，指的是GBK编码
+    "encoding":"gbk"
+}

@@ -10,20 +10,15 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"ColorPicker",
-		"Colorsublime",
 		"ConvertToUTF8",
 		"Default",
 		"Emmet",
 		"FileHeader",
-		"Git",
 		"IMESupport",
-		"JsFormat",
-		"Modific",
 		"Nil-Theme",
 		"Package Control",
 		"PyV8",
-		"SideBarEnhancements",
+		"TabsExtra",
 		"WakaTime",
 		"ZZZ"
 	]

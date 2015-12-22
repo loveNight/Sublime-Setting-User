@@ -5,13 +5,12 @@
     [
         "UnusedImport"
     ],
-
     //保存文件后自动pep8格式化
-    // "auto_formatting": true,
-
+    "auto_formatting": true,
     //库函数的提示
     "enable_signatures_tooltip": true,
     "merge_signatures_and_doc":true,
+
     /*
         Set is a false to disable Anaconda Linting totally
     */
